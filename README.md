@@ -1,3 +1,3 @@
-# BogusApp-Features-PlansList
+# BogusApp-Features-ChannelsList
 
 A description of this package.
